@@ -1,24 +1,21 @@
-## README
+# Learning about Rails Caching
+This is an app learning and practicing different caching techniques in Rails such as:
+- Page Caching
+- Action Caching
+- Fragment Caching
+- Model Caching
+- HTTP Caching
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Todo
+- [x] Page Caching
+- [ ] Action Caching
+- [ ] Fragment Caching
+- [ ] Model Caching
+- [ ] HTTP Caching
 
-Things you may want to cover:
+## Versions
+This example uses `Rails 5.0.0.beta3` and `Ruby 2.2.4`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Credits
+Lessons where learned from
+[Speed Things up by Learning about Caching in Rails](https://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/)
