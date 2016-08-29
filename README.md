@@ -8,7 +8,7 @@ This is an app learning and practicing different caching techniques in Rails suc
 
 ## Todo
 - [x] Page Caching
-- [ ] Action Caching
+- [x] Action Caching
 - [ ] Fragment Caching
 - [ ] Model Caching
 - [ ] HTTP Caching
