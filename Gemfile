@@ -24,6 +24,8 @@ gem 'turbolinks', '~> 5.x'
 gem 'jbuilder', '~> 2.0'
 # Use actionpack-page_caching to cache your pages
 gem 'actionpack-page_caching'
+# Use actionpack-action_caching to cache controller actions
+gem 'actionpack-action_caching'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
